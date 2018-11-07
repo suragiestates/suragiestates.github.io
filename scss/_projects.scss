@@ -3,7 +3,7 @@
   .featured-text {
     padding: 2rem;
     @media (min-width: 992px) {
-      padding: 0 0 0 2rem;
+      padding: 0 2rem;
     }
   }
   .project-text {
@@ -21,7 +21,6 @@
   hr {
     border-color: #2e8b57;
     border-width: .25rem;
-    width:80%;
-    margin:0;
+    width:40%;
   }
 }
